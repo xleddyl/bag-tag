@@ -1,9 +1,9 @@
 {
-   "name": "template-nuxt",
+   "name": "bag-tag-web",
    "version": "1.0.0",
    "private": true,
    "author": "xleddyl <edoalberti99@gmail.com>",
-   "repository": "git@github.com:xleddyl/template-nuxt.git",
+   "repository": "git@github.com:xleddyl/bag-tag-web.git",
    "license": "MIT",
    "scripts": {
       "_env": "dotenv -e ./.env -c --",

@@ -26,8 +26,8 @@ export default defineNuxtConfig({
    },
 
    site: {
-      url: 'template-nuxt',
-      name: 'template-nuxt',
+      url: 'bag-tag.xleddyl.dev',
+      name: 'BagTag',
    },
 
    // sitemap: {
