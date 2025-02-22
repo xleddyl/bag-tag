@@ -1,0 +1,100 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+*::after,
+*::before {
+   /* outline: 2px solid red; */
+}
+
+:root {
+   --sunset-strip-color: #ffbd00;
+   --philippine-silver-color: #b6b6b6;
+   --default-footer-padding: 300px;
+}
+
+/* ::-moz-selection {
+   color: var(--philippine-silver-color);
+   background: var(--sunset-strip-color);
+}
+
+::selection {
+   color: var(--philippine-silver-color);
+   background: var(--sunset-strip-color);
+} */
+
+@layer utilities {
+   .body-base {
+      @apply font-sans font-medium;
+   }
+
+   .title-base {
+      @apply font-title;
+   }
+
+   .title-1 {
+      @apply title-base;
+   }
+
+   .title-2 {
+      @apply title-base;
+   }
+
+   .title-3 {
+      @apply title-base;
+   }
+
+   .title-4 {
+      @apply title-base;
+   }
+
+   .title-5 {
+      @apply title-base;
+   }
+
+   .title-6 {
+      @apply title-base;
+   }
+}
+
+@layer base {
+   html {
+      @apply scroll-smooth font-sans;
+   }
+
+   img {
+      @apply object-cover;
+   }
+
+   h1 {
+      @apply title-1;
+   }
+
+   h2 {
+      @apply title-2;
+   }
+
+   h3 {
+      @apply title-3;
+   }
+
+   h4 {
+      @apply title-4;
+   }
+
+   h5 {
+      @apply title-5;
+   }
+
+   h6 {
+      @apply title-6;
+   }
+
+   p {
+      @apply body-base;
+   }
+}
+
+@layer components {
+}
