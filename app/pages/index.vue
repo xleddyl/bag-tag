@@ -12,19 +12,19 @@
             <p class="font-semibold">
                I'm headed to
                <span class="w-fit rounded-md bg-sunset-strip px-2 py-1 font-title text-black">
-                  TOKYO
+                  MILANO
                </span>
             </p>
             <p class="text-sm opacity-70">
                <a
                   target="_blank"
                   class="__clickable underline"
-                  href="https://www.booking.com/hotel/jp/mimaru-tokyo-inaricho-dong-jing-du.it.html"
+                  href="https://maps.app.goo.gl/iuBvx6EfVegpkJCS7"
                >
-                  MIMARU Tokyo Ueno Inaricho
+                  Andorno Micca
                </a>
                <br />
-               prefecture of Tokyo, Tokyo, Taito-ku Higashiueno 5-8-2, Japan
+               via Mario Colletta 15, 13811, Biella, Italia
             </p>
          </div>
 
@@ -32,10 +32,10 @@
             <p class="font-semibold">
                My flight number is
                <span class="w-fit rounded-md bg-sunset-strip px-2 py-1 font-title text-black">
-                  NH0208
+                  NH0207
                </span>
             </p>
-            <p class="text-sm opacity-70">departing from MXP at 10:30 directed to HANEDA</p>
+            <p class="text-sm opacity-70">departing from HANEDA at 01:05 directed to MXP</p>
          </div>
 
          <div class="flex flex-col gap-1">
