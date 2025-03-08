@@ -12,7 +12,7 @@
             <p class="font-semibold">
                I'm headed to
                <span class="w-fit rounded-md bg-sunset-strip px-2 py-1 font-title text-black">
-                  MILANO
+                  Biella
                </span>
             </p>
             <p class="text-sm opacity-70">
@@ -21,10 +21,10 @@
                   class="__clickable underline"
                   href="https://maps.app.goo.gl/iuBvx6EfVegpkJCS7"
                >
-                  Andorno Micca
+                  My house
                </a>
                <br />
-               via Mario Colletta 15, 13811, Biella, Italia
+               via Mario Colletta 15, Andorno Micca 13811, Biella, Italia
             </p>
          </div>
 
